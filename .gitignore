@@ -1,0 +1,14 @@
+
+confirmation.png
+geckodriver.log
+*.pyc
+*.pyo
+hsp/__pycache__/
+build/
+dist/
+sdist
+hsp.egg-info/
+test/
+venv/
+
+.idea/
